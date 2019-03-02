@@ -1598,7 +1598,7 @@
 /bus/08/mix/05 ON   -oo +0 POST
 /bus/08/mix/06 ON   -oo
 /bus/08/grp %00000000 %000000
-/bus/09/config "MixBus" 71 CY
+/bus/09/config "Kit" 71 RD
 /bus/09/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/09/dyn/filter OFF 3.0 990.9
 /bus/09/insert OFF PRE OFF
@@ -1609,7 +1609,7 @@
 /bus/09/eq/4 PEQ 1k97 +0.00 2.0
 /bus/09/eq/5 PEQ 5k02 +0.00 2.0
 /bus/09/eq/6 HShv 10k02 +0.00 2.0
-/bus/09/mix ON   -oo OFF +0 OFF   -oo
+/bus/09/mix ON   0.0 OFF +0 OFF   -oo
 /bus/09/mix/01 ON   -oo +0 POST
 /bus/09/mix/02 ON   -oo
 /bus/09/mix/03 ON   -oo +0 POST
@@ -1617,7 +1617,7 @@
 /bus/09/mix/05 ON   -oo +0 POST
 /bus/09/mix/06 ON   -oo
 /bus/09/grp %00000000 %000000
-/bus/10/config "MixBus" 71 CY
+/bus/10/config "Inst" 71 GN
 /bus/10/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/10/dyn/filter OFF 3.0 990.9
 /bus/10/insert OFF PRE OFF
@@ -1628,7 +1628,7 @@
 /bus/10/eq/4 PEQ 1k97 +0.00 2.0
 /bus/10/eq/5 PEQ 5k02 +0.00 2.0
 /bus/10/eq/6 HShv 10k02 +0.00 2.0
-/bus/10/mix ON   -oo OFF +0 OFF   -oo
+/bus/10/mix ON   0.0 OFF +0 OFF   -oo
 /bus/10/mix/01 ON   -oo +0 POST
 /bus/10/mix/02 ON   -oo
 /bus/10/mix/03 ON   -oo +0 POST
@@ -1636,7 +1636,7 @@
 /bus/10/mix/05 ON   -oo +0 POST
 /bus/10/mix/06 ON   -oo
 /bus/10/grp %00000000 %000000
-/bus/11/config "MixBus" 71 CY
+/bus/11/config "Vox" 71 CY
 /bus/11/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/11/dyn/filter OFF 3.0 990.9
 /bus/11/insert OFF PRE OFF
@@ -1647,7 +1647,7 @@
 /bus/11/eq/4 PEQ 1k97 +0.00 2.0
 /bus/11/eq/5 PEQ 5k02 +0.00 2.0
 /bus/11/eq/6 HShv 10k02 +0.00 2.0
-/bus/11/mix ON   -oo OFF +0 OFF   -oo
+/bus/11/mix ON   0.0 OFF +0 OFF   -oo
 /bus/11/mix/01 ON   -oo +0 POST
 /bus/11/mix/02 ON   -oo
 /bus/11/mix/03 ON   -oo +0 POST
@@ -1655,7 +1655,7 @@
 /bus/11/mix/05 ON   -oo +0 POST
 /bus/11/mix/06 ON   -oo
 /bus/11/grp %00000000 %000000
-/bus/12/config "MixBus" 71 CY
+/bus/12/config "MixBus" 71 OFF
 /bus/12/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/12/dyn/filter OFF 3.0 990.9
 /bus/12/insert OFF PRE OFF
