@@ -1052,7 +1052,7 @@
 /ch/32/mix/14 ON   -oo
 /ch/32/mix/15 ON   -oo +0 POST
 /ch/32/mix/16 ON   -oo
-/ch/32/grp %00000000 %000000
+/ch/32/grp %01000000 %000000
 /ch/32/automix OFF  +0.0
 /auxin/01/config "" 55 GN 33
 /auxin/01/preamp +0.0 OFF
@@ -1877,7 +1877,7 @@
 /dca/6 ON   -oo
 /dca/6/config "DCA" 70 WH
 /dca/7 ON   -oo
-/dca/7/config "DCA" 70 WH
+/dca/7/config "Handheld" 70 BL
 /dca/8 ON   -oo
 /dca/8/config "VoxFX" 70 MG
 /fx/1 VRM
