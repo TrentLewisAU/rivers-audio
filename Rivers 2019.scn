@@ -60,7 +60,7 @@
 /ch/01/mix/14 ON   -oo
 /ch/01/mix/15 ON   -oo +0 POST
 /ch/01/mix/16 ON   -oo
-/ch/01/grp %00000000 %000000
+/ch/01/grp %00000001 %000000
 /ch/01/automix OFF  +0.0
 /ch/02/config "Snare Drum" 5 BL 2
 /ch/02/delay OFF   0.3
@@ -92,7 +92,7 @@
 /ch/02/mix/14 ON   -oo
 /ch/02/mix/15 ON   -oo +0 POST
 /ch/02/mix/16 ON   -oo
-/ch/02/grp %00000000 %000000
+/ch/02/grp %00000001 %000000
 /ch/02/automix OFF  +0.0
 /ch/03/config "Floor Tom" 8 BL 3
 /ch/03/delay OFF   0.3
@@ -124,7 +124,7 @@
 /ch/03/mix/14 ON   -oo
 /ch/03/mix/15 ON   -oo +0 POST
 /ch/03/mix/16 ON   -oo
-/ch/03/grp %00000000 %000000
+/ch/03/grp %00000001 %000000
 /ch/03/automix OFF  +0.0
 /ch/04/config "Low Tom" 7 BL 4
 /ch/04/delay OFF   0.3
@@ -156,7 +156,7 @@
 /ch/04/mix/14 ON   -oo
 /ch/04/mix/15 ON   -oo +0 POST
 /ch/04/mix/16 ON   -oo
-/ch/04/grp %00000000 %000000
+/ch/04/grp %00000001 %000000
 /ch/04/automix OFF  +0.0
 /ch/05/config "High Tom" 6 BL 5
 /ch/05/delay OFF   0.3
@@ -188,7 +188,7 @@
 /ch/05/mix/14 ON   -oo
 /ch/05/mix/15 ON   -oo +0 POST
 /ch/05/mix/16 ON   -oo
-/ch/05/grp %00000000 %000000
+/ch/05/grp %00000001 %000000
 /ch/05/automix OFF  +0.0
 /ch/06/config "Overhd L" 10 BL 6
 /ch/06/delay OFF   0.3
@@ -220,7 +220,7 @@
 /ch/06/mix/14 ON   -oo
 /ch/06/mix/15 ON   -oo +0 POST
 /ch/06/mix/16 ON   -oo
-/ch/06/grp %00000000 %000000
+/ch/06/grp %00000001 %000000
 /ch/06/automix OFF  +0.0
 /ch/07/config "Overhd R" 11 BL 7
 /ch/07/delay OFF   0.3
@@ -252,7 +252,7 @@
 /ch/07/mix/14 ON   -oo
 /ch/07/mix/15 ON   -oo +0 POST
 /ch/07/mix/16 ON   -oo
-/ch/07/grp %00000000 %000000
+/ch/07/grp %00000001 %000000
 /ch/07/automix OFF  +0.0
 /ch/08/config "Bass" 17 BLi 8
 /ch/08/delay OFF   0.3
@@ -284,7 +284,7 @@
 /ch/08/mix/14 ON   -oo
 /ch/08/mix/15 ON   -oo +0 POST
 /ch/08/mix/16 ON   -oo
-/ch/08/grp %00000000 %000000
+/ch/08/grp %00000010 %000000
 /ch/08/automix OFF  +0.0
 /ch/09/config "Electric Gtr" 20 CY 9
 /ch/09/delay OFF   0.3
@@ -316,7 +316,7 @@
 /ch/09/mix/14 ON   -oo
 /ch/09/mix/15 ON   -oo +0 POST
 /ch/09/mix/16 ON   -oo
-/ch/09/grp %00000000 %000000
+/ch/09/grp %00000010 %000000
 /ch/09/automix OFF  +0.0
 /ch/10/config "Acoustic Gtr" 1 CY 10
 /ch/10/delay OFF   0.3
@@ -348,7 +348,7 @@
 /ch/10/mix/14 ON   -oo
 /ch/10/mix/15 ON   -oo +0 POST
 /ch/10/mix/16 ON   -oo
-/ch/10/grp %00000000 %000000
+/ch/10/grp %00000010 %000000
 /ch/10/automix OFF  +0.0
 /ch/11/config "Keys L" 1 MG 11
 /ch/11/delay OFF   0.3
@@ -380,7 +380,7 @@
 /ch/11/mix/14 ON   -oo
 /ch/11/mix/15 ON   -oo -100 POST
 /ch/11/mix/16 ON   -oo
-/ch/11/grp %00000000 %000000
+/ch/11/grp %00000010 %000000
 /ch/11/automix OFF  +0.0
 /ch/12/config "Keys R" 1 MG 12
 /ch/12/delay OFF   0.3
@@ -412,7 +412,7 @@
 /ch/12/mix/14 ON   -oo
 /ch/12/mix/15 ON   -oo +100 POST
 /ch/12/mix/16 ON   -oo
-/ch/12/grp %00000000 %000000
+/ch/12/grp %00000010 %000000
 /ch/12/automix OFF  +0.0
 /ch/13/config "Worship Lead" 1 WH 13
 /ch/13/delay OFF   0.3
@@ -444,7 +444,7 @@
 /ch/13/mix/14 ON   -oo
 /ch/13/mix/15 ON   -oo +0 POST
 /ch/13/mix/16 ON   -oo
-/ch/13/grp %00000000 %000000
+/ch/13/grp %00000100 %000000
 /ch/13/automix OFF  +0.0
 /ch/14/config "Vox 1" 1 WH 14
 /ch/14/delay OFF   0.3
@@ -476,7 +476,7 @@
 /ch/14/mix/14 ON   -oo
 /ch/14/mix/15 ON   -oo +0 POST
 /ch/14/mix/16 ON   -oo
-/ch/14/grp %00000000 %000000
+/ch/14/grp %00000100 %000000
 /ch/14/automix OFF  +0.0
 /ch/15/config "Vox 2" 1 WH 15
 /ch/15/delay OFF   0.3
@@ -508,7 +508,7 @@
 /ch/15/mix/14 ON   -oo
 /ch/15/mix/15 ON   -oo +0 POST
 /ch/15/mix/16 ON   -oo
-/ch/15/grp %00000000 %000000
+/ch/15/grp %00000100 %000000
 /ch/15/automix OFF  +0.0
 /ch/16/config "Vox 3" 1 WH 16
 /ch/16/delay OFF   0.3
@@ -540,7 +540,7 @@
 /ch/16/mix/14 ON   -oo
 /ch/16/mix/15 ON   -oo +0 POST
 /ch/16/mix/16 ON   -oo
-/ch/16/grp %00000000 %000000
+/ch/16/grp %00000100 %000000
 /ch/16/automix OFF  +0.0
 /ch/17/config "Synth L" 1 MGi 17
 /ch/17/delay OFF   0.3
@@ -572,7 +572,7 @@
 /ch/17/mix/14 ON   -oo
 /ch/17/mix/15 ON   -oo -100 POST
 /ch/17/mix/16 ON   -oo
-/ch/17/grp %00000000 %000000
+/ch/17/grp %00000010 %000000
 /ch/17/automix OFF  +0.0
 /ch/18/config "Synth R" 1 MGi 18
 /ch/18/delay OFF   0.3
@@ -604,7 +604,7 @@
 /ch/18/mix/14 ON   -oo
 /ch/18/mix/15 ON   -oo +100 POST
 /ch/18/mix/16 ON   -oo
-/ch/18/grp %00000000 %000000
+/ch/18/grp %00000010 %000000
 /ch/18/automix OFF  +0.0
 /ch/19/config "Pad L" 1 RDi 19
 /ch/19/delay OFF   0.3
@@ -636,7 +636,7 @@
 /ch/19/mix/14 ON   -oo
 /ch/19/mix/15 ON   -oo -100 POST
 /ch/19/mix/16 ON   -oo
-/ch/19/grp %00000000 %000000
+/ch/19/grp %00000010 %000000
 /ch/19/automix OFF  +0.0
 /ch/20/config "Pad R" 1 RDi 20
 /ch/20/delay OFF   0.3
@@ -668,7 +668,7 @@
 /ch/20/mix/14 ON   -oo
 /ch/20/mix/15 ON   -oo +100 POST
 /ch/20/mix/16 ON   -oo
-/ch/20/grp %00000000 %000000
+/ch/20/grp %00000010 %000000
 /ch/20/automix OFF  +0.0
 /ch/21/config "" 1 OFF 21
 /ch/21/delay OFF   0.3
@@ -1865,17 +1865,17 @@
 /main/m/mix/05 ON   -oo +0 POST
 /main/m/mix/06 ON   -oo
 /dca/1 ON   -oo
-/dca/1/config "DCA" 70 WH
+/dca/1/config "Kit" 70 BL
 /dca/2 ON   -oo
-/dca/2/config "DCA" 70 WH
+/dca/2/config "Inst" 70 CY
 /dca/3 ON   -oo
-/dca/3/config "DCA" 70 WH
+/dca/3/config "Vox" 70 WH
 /dca/4 ON   -oo
-/dca/4/config "DCA" 70 WH
+/dca/4/config "DCA" 70 OFF
 /dca/5 ON   -oo
-/dca/5/config "DCA" 70 WH
+/dca/5/config "DCA" 70 OFF
 /dca/6 ON   -oo
-/dca/6/config "DCA" 70 WH
+/dca/6/config "DCA" 70 OFF
 /dca/7 ON   -oo
 /dca/7/config "Handheld" 70 BL
 /dca/8 ON   -oo
