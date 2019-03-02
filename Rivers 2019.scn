@@ -1277,7 +1277,7 @@
 /fxrtn/01/mix/14 ON   -oo
 /fxrtn/01/mix/15 ON   -oo -100 POST
 /fxrtn/01/mix/16 ON   -oo
-/fxrtn/01/grp %00000000 %000000
+/fxrtn/01/grp %00000000 %100000
 /fxrtn/02/config "" 61 MG
 /fxrtn/02/eq OFF
 /fxrtn/02/eq/1 PEQ 124.7 +0.00 2.0
@@ -1301,7 +1301,7 @@
 /fxrtn/02/mix/14 ON   -oo
 /fxrtn/02/mix/15 ON   -oo +100 POST
 /fxrtn/02/mix/16 ON   -oo
-/fxrtn/02/grp %00000000 %000000
+/fxrtn/02/grp %00000000 %100000
 /fxrtn/03/config "" 61 MG
 /fxrtn/03/eq OFF
 /fxrtn/03/eq/1 PEQ 124.7 +0.00 2.0
@@ -1325,7 +1325,7 @@
 /fxrtn/03/mix/14 ON   -oo
 /fxrtn/03/mix/15 ON   -oo -100 POST
 /fxrtn/03/mix/16 ON   -oo
-/fxrtn/03/grp %00000000 %000000
+/fxrtn/03/grp %00000000 %100000
 /fxrtn/04/config "" 61 MG
 /fxrtn/04/eq OFF
 /fxrtn/04/eq/1 PEQ 124.7 +0.00 2.0
@@ -1349,7 +1349,7 @@
 /fxrtn/04/mix/14 ON   -oo
 /fxrtn/04/mix/15 ON   -oo +100 POST
 /fxrtn/04/mix/16 ON   -oo
-/fxrtn/04/grp %00000000 %000000
+/fxrtn/04/grp %00000000 %100000
 /fxrtn/05/config "" 61 MG
 /fxrtn/05/eq OFF
 /fxrtn/05/eq/1 PEQ 124.7 +0.00 2.0
@@ -1373,7 +1373,7 @@
 /fxrtn/05/mix/14 ON   -oo
 /fxrtn/05/mix/15 ON   -oo -100 POST
 /fxrtn/05/mix/16 ON   -oo
-/fxrtn/05/grp %00000000 %000000
+/fxrtn/05/grp %00000000 %100000
 /fxrtn/06/config "" 61 MG
 /fxrtn/06/eq OFF
 /fxrtn/06/eq/1 PEQ 124.7 +0.00 2.0
@@ -1397,7 +1397,7 @@
 /fxrtn/06/mix/14 ON   -oo
 /fxrtn/06/mix/15 ON   -oo +100 POST
 /fxrtn/06/mix/16 ON   -oo
-/fxrtn/06/grp %00000000 %000000
+/fxrtn/06/grp %00000000 %100000
 /fxrtn/07/config "" 61 MG
 /fxrtn/07/eq OFF
 /fxrtn/07/eq/1 PEQ 124.7 +0.00 2.0
@@ -1421,7 +1421,7 @@
 /fxrtn/07/mix/14 ON   -oo
 /fxrtn/07/mix/15 ON   -oo -100 POST
 /fxrtn/07/mix/16 ON   -oo
-/fxrtn/07/grp %00000000 %000000
+/fxrtn/07/grp %00000000 %100000
 /fxrtn/08/config "" 61 MG
 /fxrtn/08/eq OFF
 /fxrtn/08/eq/1 PEQ 124.7 +0.00 2.0
@@ -1445,7 +1445,7 @@
 /fxrtn/08/mix/14 ON   -oo
 /fxrtn/08/mix/15 ON   -oo +100 POST
 /fxrtn/08/mix/16 ON   -oo
-/fxrtn/08/grp %00000000 %000000
+/fxrtn/08/grp %00000000 %100000
 /bus/01/config "Snake1" 71 YE
 /bus/01/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/01/dyn/filter OFF 3.0 990.9
@@ -1464,7 +1464,7 @@
 /bus/01/mix/04 ON   -oo
 /bus/01/mix/05 ON   -oo +0 POST
 /bus/01/mix/06 ON   -oo
-/bus/01/grp %00000000 %000000
+/bus/01/grp %00000000 %000010
 /bus/02/config "Snake2" 71 YE
 /bus/02/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/02/dyn/filter OFF 3.0 990.9
@@ -1483,7 +1483,7 @@
 /bus/02/mix/04 ON   -oo
 /bus/02/mix/05 ON   -oo +0 POST
 /bus/02/mix/06 ON   -oo
-/bus/02/grp %00000000 %000000
+/bus/02/grp %00000000 %000010
 /bus/03/config "Snake3" 71 YE
 /bus/03/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/03/dyn/filter OFF 3.0 990.9
@@ -1502,7 +1502,7 @@
 /bus/03/mix/04 ON   -oo
 /bus/03/mix/05 ON   -oo +0 POST
 /bus/03/mix/06 ON   -oo
-/bus/03/grp %00000000 %000000
+/bus/03/grp %00000000 %000010
 /bus/04/config "Snake4" 71 YE
 /bus/04/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/04/dyn/filter OFF 3.0 990.9
@@ -1521,7 +1521,7 @@
 /bus/04/mix/04 ON   -oo
 /bus/04/mix/05 ON   -oo +0 POST
 /bus/04/mix/06 ON   -oo
-/bus/04/grp %00000000 %000000
+/bus/04/grp %00000000 %000010
 /bus/05/config "Snake5" 71 YE
 /bus/05/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/05/dyn/filter OFF 3.0 990.9
@@ -1540,7 +1540,7 @@
 /bus/05/mix/04 ON   -oo
 /bus/05/mix/05 ON   -oo +0 POST
 /bus/05/mix/06 ON   -oo
-/bus/05/grp %00000000 %000000
+/bus/05/grp %00000000 %000010
 /bus/06/config "Stage1" 71 BL
 /bus/06/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/06/dyn/filter OFF 3.0 990.9
@@ -1559,7 +1559,7 @@
 /bus/06/mix/04 ON   -oo
 /bus/06/mix/05 ON   -oo +0 POST
 /bus/06/mix/06 ON   -oo
-/bus/06/grp %00000000 %000000
+/bus/06/grp %00000000 %000010
 /bus/07/config "Stage2" 71 BL
 /bus/07/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/07/dyn/filter OFF 3.0 990.9
@@ -1578,7 +1578,7 @@
 /bus/07/mix/04 ON   -oo
 /bus/07/mix/05 ON   -oo +0 POST
 /bus/07/mix/06 ON   -oo
-/bus/07/grp %00000000 %000000
+/bus/07/grp %00000000 %000010
 /bus/08/config "Stage3" 71 BL
 /bus/08/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/08/dyn/filter OFF 3.0 990.9
@@ -1597,7 +1597,7 @@
 /bus/08/mix/04 ON   -oo
 /bus/08/mix/05 ON   -oo +0 POST
 /bus/08/mix/06 ON   -oo
-/bus/08/grp %00000000 %000000
+/bus/08/grp %00000000 %000010
 /bus/09/config "Kit" 71 RD
 /bus/09/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/09/dyn/filter OFF 3.0 990.9
@@ -1692,7 +1692,7 @@
 /bus/13/mix/04 ON   -oo
 /bus/13/mix/05 ON   -oo +0 POST
 /bus/13/mix/06 ON   -oo
-/bus/13/grp %01000000 %000000
+/bus/13/grp %01000000 %010000
 /bus/14/config "Fx 2" 71 MG
 /bus/14/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/14/dyn/filter OFF 3.0 990.9
@@ -1711,7 +1711,7 @@
 /bus/14/mix/04 ON   -oo
 /bus/14/mix/05 ON   -oo +0 POST
 /bus/14/mix/06 ON   -oo
-/bus/14/grp %01000000 %000000
+/bus/14/grp %01000000 %010000
 /bus/15/config "Fx 3" 71 MG
 /bus/15/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/15/dyn/filter OFF 3.0 990.9
@@ -1730,7 +1730,7 @@
 /bus/15/mix/04 ON   -oo
 /bus/15/mix/05 ON   -oo +0 POST
 /bus/15/mix/06 ON   -oo
-/bus/15/grp %10000000 %000000
+/bus/15/grp %10000000 %010000
 /bus/16/config "Fx 4" 71 MG
 /bus/16/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/16/dyn/filter OFF 3.0 990.9
@@ -1749,7 +1749,7 @@
 /bus/16/mix/04 ON   -oo
 /bus/16/mix/05 ON   -oo +0 POST
 /bus/16/mix/06 ON   -oo
-/bus/16/grp %10000000 %000000
+/bus/16/grp %10000000 %010000
 /mtx/01/config "" 72 MG
 /mtx/01/preamp OFF
 /mtx/01/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
