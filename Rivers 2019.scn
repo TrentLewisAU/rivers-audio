@@ -60,7 +60,7 @@
 /ch/01/mix/14 ON   -oo
 /ch/01/mix/15 ON   -oo +0 POST
 /ch/01/mix/16 ON   -oo
-/ch/01/grp %00000001 %000000
+/ch/01/grp %00000001 %000001
 /ch/01/automix OFF  +0.0
 /ch/02/config "Snare" 5 RD 2
 /ch/02/delay OFF   0.3
@@ -92,7 +92,7 @@
 /ch/02/mix/14 ON   -oo
 /ch/02/mix/15 ON   -oo +0 POST
 /ch/02/mix/16 ON   -oo
-/ch/02/grp %00000001 %000000
+/ch/02/grp %00000001 %000001
 /ch/02/automix OFF  +0.0
 /ch/03/config "Tom 3" 8 RD 3
 /ch/03/delay OFF   0.3
@@ -124,7 +124,7 @@
 /ch/03/mix/14 ON   -oo
 /ch/03/mix/15 ON   -oo +0 POST
 /ch/03/mix/16 ON   -oo
-/ch/03/grp %00000001 %000000
+/ch/03/grp %00000001 %000001
 /ch/03/automix OFF  +0.0
 /ch/04/config "Tom 2" 7 RD 4
 /ch/04/delay OFF   0.3
@@ -156,7 +156,7 @@
 /ch/04/mix/14 ON   -oo
 /ch/04/mix/15 ON   -oo +0 POST
 /ch/04/mix/16 ON   -oo
-/ch/04/grp %00000001 %000000
+/ch/04/grp %00000001 %000001
 /ch/04/automix OFF  +0.0
 /ch/05/config "Tom 1" 6 RD 5
 /ch/05/delay OFF   0.3
@@ -188,7 +188,7 @@
 /ch/05/mix/14 ON   -oo
 /ch/05/mix/15 ON   -oo +0 POST
 /ch/05/mix/16 ON   -oo
-/ch/05/grp %00000001 %000000
+/ch/05/grp %00000001 %000001
 /ch/05/automix OFF  +0.0
 /ch/06/config "OH L" 10 RD 6
 /ch/06/delay OFF   0.3
@@ -220,7 +220,7 @@
 /ch/06/mix/14 ON   -oo
 /ch/06/mix/15 ON   -oo +0 POST
 /ch/06/mix/16 ON   -oo
-/ch/06/grp %00000001 %000000
+/ch/06/grp %00000001 %000001
 /ch/06/automix OFF  +0.0
 /ch/07/config "OH R" 11 RD 7
 /ch/07/delay OFF   0.3
@@ -252,7 +252,7 @@
 /ch/07/mix/14 ON   -oo
 /ch/07/mix/15 ON   -oo +0 POST
 /ch/07/mix/16 ON   -oo
-/ch/07/grp %00000001 %000000
+/ch/07/grp %00000001 %000001
 /ch/07/automix OFF  +0.0
 /ch/08/config "Bass" 17 YE 8
 /ch/08/delay OFF   0.3
@@ -284,7 +284,7 @@
 /ch/08/mix/14 ON   -oo
 /ch/08/mix/15 ON   -oo +0 POST
 /ch/08/mix/16 ON   -oo
-/ch/08/grp %00000010 %000000
+/ch/08/grp %00000010 %000001
 /ch/08/automix OFF  +0.0
 /ch/09/config "Electric" 20 GN 9
 /ch/09/delay OFF   0.3
@@ -316,7 +316,7 @@
 /ch/09/mix/14 ON   -oo
 /ch/09/mix/15 ON   -oo +0 POST
 /ch/09/mix/16 ON   -oo
-/ch/09/grp %00000010 %000000
+/ch/09/grp %00000010 %000001
 /ch/09/automix OFF  +0.0
 /ch/10/config "Acoustic" 1 GN 10
 /ch/10/delay OFF   0.3
@@ -348,7 +348,7 @@
 /ch/10/mix/14 ON   -oo
 /ch/10/mix/15 ON   -oo +0 POST
 /ch/10/mix/16 ON   -oo
-/ch/10/grp %00000010 %000000
+/ch/10/grp %00000010 %000001
 /ch/10/automix OFF  +0.0
 /ch/11/config "Keys L" 1 GN 11
 /ch/11/delay OFF   0.3
@@ -380,7 +380,7 @@
 /ch/11/mix/14 ON   -oo
 /ch/11/mix/15 ON   -oo -100 POST
 /ch/11/mix/16 ON   -oo
-/ch/11/grp %00000010 %000000
+/ch/11/grp %00000010 %000001
 /ch/11/automix OFF  +0.0
 /ch/12/config "Keys R" 1 GN 12
 /ch/12/delay OFF   0.3
@@ -412,7 +412,7 @@
 /ch/12/mix/14 ON   -oo
 /ch/12/mix/15 ON   -oo +100 POST
 /ch/12/mix/16 ON   -oo
-/ch/12/grp %00000010 %000000
+/ch/12/grp %00000010 %000001
 /ch/12/automix OFF  +0.0
 /ch/13/config "WL" 1 BL 13
 /ch/13/delay OFF   0.3
@@ -444,7 +444,7 @@
 /ch/13/mix/14 ON   -oo
 /ch/13/mix/15 ON   -oo +0 POST
 /ch/13/mix/16 ON   -oo
-/ch/13/grp %00000100 %000000
+/ch/13/grp %00000100 %000001
 /ch/13/automix OFF  +0.0
 /ch/14/config "Vox 1" 1 CY 14
 /ch/14/delay OFF   0.3
@@ -476,7 +476,7 @@
 /ch/14/mix/14 ON   -oo
 /ch/14/mix/15 ON   -oo +0 POST
 /ch/14/mix/16 ON   -oo
-/ch/14/grp %00000100 %000000
+/ch/14/grp %00000100 %000001
 /ch/14/automix OFF  +0.0
 /ch/15/config "Vox 2" 1 CY 15
 /ch/15/delay OFF   0.3
@@ -508,7 +508,7 @@
 /ch/15/mix/14 ON   -oo
 /ch/15/mix/15 ON   -oo +0 POST
 /ch/15/mix/16 ON   -oo
-/ch/15/grp %00000100 %000000
+/ch/15/grp %00000100 %000001
 /ch/15/automix OFF  +0.0
 /ch/16/config "Vox 3" 1 CY 16
 /ch/16/delay OFF   0.3
@@ -540,7 +540,7 @@
 /ch/16/mix/14 ON   -oo
 /ch/16/mix/15 ON   -oo +0 POST
 /ch/16/mix/16 ON   -oo
-/ch/16/grp %00000100 %000000
+/ch/16/grp %00000100 %000001
 /ch/16/automix OFF  +0.0
 /ch/17/config "Synth L" 1 GN 17
 /ch/17/delay OFF   0.3
@@ -572,7 +572,7 @@
 /ch/17/mix/14 ON   -oo
 /ch/17/mix/15 ON   -oo -100 POST
 /ch/17/mix/16 ON   -oo
-/ch/17/grp %00000010 %000000
+/ch/17/grp %00000010 %000001
 /ch/17/automix OFF  +0.0
 /ch/18/config "Synth R" 1 GN 18
 /ch/18/delay OFF   0.3
@@ -604,7 +604,7 @@
 /ch/18/mix/14 ON   -oo
 /ch/18/mix/15 ON   -oo +100 POST
 /ch/18/mix/16 ON   -oo
-/ch/18/grp %00000010 %000000
+/ch/18/grp %00000010 %000001
 /ch/18/automix OFF  +0.0
 /ch/19/config "Pad L" 1 GN 19
 /ch/19/delay OFF   0.3
@@ -636,7 +636,7 @@
 /ch/19/mix/14 ON   -oo
 /ch/19/mix/15 ON   -oo -100 POST
 /ch/19/mix/16 ON   -oo
-/ch/19/grp %00000010 %000000
+/ch/19/grp %00000010 %000001
 /ch/19/automix OFF  +0.0
 /ch/20/config "Pad R" 1 GN 20
 /ch/20/delay OFF   0.3
@@ -668,7 +668,7 @@
 /ch/20/mix/14 ON   -oo
 /ch/20/mix/15 ON   -oo +100 POST
 /ch/20/mix/16 ON   -oo
-/ch/20/grp %00000010 %000000
+/ch/20/grp %00000010 %000001
 /ch/20/automix OFF  +0.0
 /ch/21/config "" 1 OFF 21
 /ch/21/delay OFF   0.3
@@ -700,7 +700,7 @@
 /ch/21/mix/14 ON   -oo
 /ch/21/mix/15 ON   -oo +0 POST
 /ch/21/mix/16 ON   -oo
-/ch/21/grp %00000000 %000000
+/ch/21/grp %00000000 %000001
 /ch/21/automix OFF  +0.0
 /ch/22/config "" 1 OFF 22
 /ch/22/delay OFF   0.3
@@ -732,7 +732,7 @@
 /ch/22/mix/14 ON   -oo
 /ch/22/mix/15 ON   -oo +0 POST
 /ch/22/mix/16 ON   -oo
-/ch/22/grp %00000000 %000000
+/ch/22/grp %00000000 %000001
 /ch/22/automix OFF  +0.0
 /ch/23/config "" 1 OFF 23
 /ch/23/delay OFF   0.3
@@ -764,7 +764,7 @@
 /ch/23/mix/14 ON   -oo
 /ch/23/mix/15 ON   -oo +0 POST
 /ch/23/mix/16 ON   -oo
-/ch/23/grp %00000000 %000000
+/ch/23/grp %00000000 %000001
 /ch/23/automix OFF  +0.0
 /ch/24/config "" 1 OFF 24
 /ch/24/delay OFF   0.3
@@ -796,7 +796,7 @@
 /ch/24/mix/14 ON   -oo
 /ch/24/mix/15 ON   -oo +0 POST
 /ch/24/mix/16 ON   -oo
-/ch/24/grp %00000000 %000000
+/ch/24/grp %00000000 %000001
 /ch/24/automix OFF  +0.0
 /ch/25/config "" 1 OFF 25
 /ch/25/delay OFF   0.3
@@ -828,7 +828,7 @@
 /ch/25/mix/14 ON   -oo
 /ch/25/mix/15 ON   -oo +0 POST
 /ch/25/mix/16 ON   -oo
-/ch/25/grp %00000000 %000000
+/ch/25/grp %00000000 %000001
 /ch/25/automix OFF  +0.0
 /ch/26/config "" 1 OFF 26
 /ch/26/delay OFF   0.3
@@ -860,7 +860,7 @@
 /ch/26/mix/14 ON   -oo
 /ch/26/mix/15 ON   -oo +0 POST
 /ch/26/mix/16 ON   -oo
-/ch/26/grp %00000000 %000000
+/ch/26/grp %00000000 %000001
 /ch/26/automix OFF  +0.0
 /ch/27/config "" 1 OFF 27
 /ch/27/delay OFF   0.3
@@ -892,7 +892,7 @@
 /ch/27/mix/14 ON   -oo
 /ch/27/mix/15 ON   -oo +0 POST
 /ch/27/mix/16 ON   -oo
-/ch/27/grp %00000000 %000000
+/ch/27/grp %00000000 %000001
 /ch/27/automix OFF  +0.0
 /ch/28/config "" 1 OFF 28
 /ch/28/delay OFF   0.3
@@ -924,7 +924,7 @@
 /ch/28/mix/14 ON   -oo
 /ch/28/mix/15 ON   -oo +0 POST
 /ch/28/mix/16 ON   -oo
-/ch/28/grp %00000000 %000000
+/ch/28/grp %00000000 %000001
 /ch/28/automix OFF  +0.0
 /ch/29/config "" 1 OFF 29
 /ch/29/delay OFF   0.3
@@ -956,7 +956,7 @@
 /ch/29/mix/14 ON   -oo
 /ch/29/mix/15 ON   -oo +0 POST
 /ch/29/mix/16 ON   -oo
-/ch/29/grp %00000000 %000000
+/ch/29/grp %00000000 %000001
 /ch/29/automix OFF  +0.0
 /ch/30/config "" 1 OFF 30
 /ch/30/delay OFF   0.3
@@ -988,7 +988,7 @@
 /ch/30/mix/14 ON   -oo
 /ch/30/mix/15 ON   -oo +0 POST
 /ch/30/mix/16 ON   -oo
-/ch/30/grp %00000000 %000000
+/ch/30/grp %00000000 %000001
 /ch/30/automix OFF  +0.0
 /ch/31/config "" 1 OFF 31
 /ch/31/delay OFF   0.3
@@ -1020,7 +1020,7 @@
 /ch/31/mix/14 ON   -oo
 /ch/31/mix/15 ON   -oo +0 POST
 /ch/31/mix/16 ON   -oo
-/ch/31/grp %00000000 %000000
+/ch/31/grp %00000000 %000001
 /ch/31/automix OFF  +0.0
 /ch/32/config "Handheld" 51 BL 32
 /ch/32/delay OFF   0.3
@@ -1052,7 +1052,7 @@
 /ch/32/mix/14 ON   -oo
 /ch/32/mix/15 ON   -oo +0 POST
 /ch/32/mix/16 ON   -oo
-/ch/32/grp %00100000 %000000
+/ch/32/grp %00100000 %000001
 /ch/32/automix OFF  +0.0
 /auxin/01/config "" 55 GN 33
 /auxin/01/preamp +0.0 OFF
